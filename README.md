@@ -13,7 +13,10 @@ Buy the game from [here](https://iq-gaming-studio.itch.io/snap-game/) (or pirate
 Features:
 
 Color Changing
-Hat Unlocks (Pre-Order Hat too)
+
+Hat Unlocks (Pre-Order Hat aswell)
+
+Compatible with paid version (and probably betas, not tested tho)
 
 -----------------------------------
 
