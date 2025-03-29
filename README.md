@@ -34,6 +34,6 @@ Click apply and it ~~should~~ will modify your
 
 Support: @ngxoff on telegram.
 
-Channel: t.me/snapmodchannel
+Channel: [t.me/snapmodchannel](https://t.me/snapmodchannel)
 
-NiGex Channel: t.me/nigexchannel
+NiGex Channel: [t.me/nigexchannel](https://t.me/nigexchannel)
