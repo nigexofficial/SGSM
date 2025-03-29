@@ -1,7 +1,7 @@
 # SGSM
 Snap Game Save Manager
 
-Buy the game from [here](https://iq-gaming-studio.itch.io/snap-game/)
+Buy the game from [here](https://iq-gaming-studio.itch.io/snap-game/) (or pirate it idc)
 
 Features:
 
@@ -17,4 +17,5 @@ Click apply and it will apply
 Support: @ngxoff on telegram.
 
 Channel: t.me/snapmodchannel
+
 NiGex Channel: t.me/nigexchannel
