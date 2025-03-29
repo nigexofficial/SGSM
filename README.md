@@ -28,7 +28,7 @@ Open the app, press load
 
 Make the changes you need
 
-Click apply and it ~~should~~ will modify your 
+Click apply and it ~~should~~ will modify your savefile
 
 -----------------------------------
 
