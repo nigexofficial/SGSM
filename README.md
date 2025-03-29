@@ -2,7 +2,8 @@
 Snap Game Save Manager
 
 How it works:
-It just modifies your savefile. Yea thats it, this is a horrible project but atleast we are honest about it lol
+
+It just modifies your savefile. Yea thats it, this is a horrible project made in like 30 min
 
 -----------------------------------
 
